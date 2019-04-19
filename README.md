@@ -1,2 +1,3 @@
 # hello-world
-Entrée dans le monde du développement
+Entré il y a peu dans le monde du développement
+J'aime les jeux en tous genres et espère apporter ma contribution au développement des IA.
